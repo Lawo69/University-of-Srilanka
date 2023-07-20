@@ -85,3 +85,10 @@ button:hover span{
     display: table;
     clear: both;
 }
+
+@media screen and (max-width: 600px){
+    .card img{
+        float: none;
+        width: 100%;
+    }
+}
