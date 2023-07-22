@@ -80,6 +80,10 @@ button:hover span{
     box-shadow: 50% black;
 }
 
+.card img:hover{
+   box-shadow: 0px 0px 50px #045252;
+}
+
 .row::after {
     content: "";
     display: table;
